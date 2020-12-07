@@ -16,25 +16,58 @@ The namming convention helps you know what they do and how to use them. We have 
 
 ## Example with classic modules
 Use the folder structure at the top of the page to select your in this case we'll click on the "classic_modules" folder.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/1.PNG)
-
+<br/>
+<br/>
+<br/>
 Here you'll find the documentation specific to these modules and a module per folder. Say I want a GameObject to continuously rotate in my scene then I'll click on the "continuously_rotate" folder.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/2.PNG)
-
+<br/>
+<br/>
+<br/>
 Here you may find information on the indivdual module module but most importantly you'll find the unity package which is an importable module.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/3.PNG)
-
+<br/>
+<br/>
+<br/>
 If I click on the "continuously_rotate.unitypackage" file I'll have the opiton to download it
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/4.PNG)
-
+<br/>
+<br/>
+<br/>
 Now that you have the module on your computer you can drag and drop it into your unity project and you'll see the content of the module.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/5.PNG)
 ![](readme_resources/classic_import/6.PNG)
-
+<br/>
+<br/>
+<br/>
 All the classic modules will go into the "classic_modules" folder in your assets. So you'll find a "continuously_rotate" folder containing example prefab using the modules you can drop in your scene or an example scene which just need to be launched to see the minimum in action. The module is the script "ContinuouslyRotate". If you drag and drop it on a GameObject you'll be set and the GameObject will now rotate forever as soon as the scene starts.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/7.PNG)
-
+<br/>
+<br/>
+<br/>
 You can click the gameObject and see the module in the inspector. Often you'll have some values to tweak what the module does. Here you can see that we rotate both on the X and Y axes at different speeds.
+<br/>
+<br/>
+<br/>
 ![](readme_resources/classic_import/8.PNG)
 ![](readme_resources/classic_import/final.gif)
 
