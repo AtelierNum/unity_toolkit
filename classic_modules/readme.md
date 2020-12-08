@@ -15,7 +15,7 @@ To match an emitter with a receiver
 <br/>
 <br/>
 <br/>
-1. Add the "do X onEvent" script to the GameObject you want to affect. And the emitter you want to use in the EventManager if it's not already there.
+1.Add the "do X onEvent" script to the GameObject you want to affect. And the emitter you want to use in the EventManager if it's not already there.
 <br/>
 <br/>
 <br/>
@@ -24,7 +24,7 @@ To match an emitter with a receiver
 <br/>
 <br/>
 <br/>
-2. click the "+" in the Event list of the emitter
+2.click the "+" in the Event list of the emitter
 <br/>
 <br/>
 <br/>
@@ -32,7 +32,7 @@ To match an emitter with a receiver
 <br/>
 <br/>
 <br/>
-3. drag the affected GameObject in the emitter where you can read `None (Object)`
+3.drag the affected GameObject in the emitter where you can read `None (Object)`
 <br/>
 <br/>
 <br/>
@@ -40,7 +40,7 @@ To match an emitter with a receiver
 <br/>
 <br/>
 <br/>
-4. in the drop down, select "do X onEvent" > "X"
+4.in the drop down, select "do X onEvent" > "X"
 <br/>
 <br/>
 <br/>
