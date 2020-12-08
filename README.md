@@ -1,6 +1,6 @@
 # What it is
 
-This repo is meant to offer you ready-to-use scripts for your unity prototype. They come in two flavors, C# (a.k.a "classic") and bolt. C# is the standard way, so most tutorials are written with this and you have a greater potentiel but it is harder to learn, write and read. Bolt is a graphical/nodal way to write code it is arguably just as hard to write but way easier to read.
+This repo is meant to offer you ready-to-use scripts for your unity prototype. They come in two flavors, C# (a.k.a "classic") and bolt. C# is the standard way, so most tutorials are written with this and you have a greater potential but it is harder to learn, write and read. Bolt is a graphical/nodal way to write code it is arguably just as hard to write but way easier to read.
 
 # How to navigate
 
